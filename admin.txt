@@ -1,2 +1,1 @@
-#ts=1792652924
-kick all
+# cleared - old kicks invalidated
