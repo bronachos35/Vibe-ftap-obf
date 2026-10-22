@@ -1,2 +1,2 @@
-#ts=1792671135
-announce all Can u see this
+#ts=1792671150
+kick all
