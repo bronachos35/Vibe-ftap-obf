@@ -1,2 +1,2 @@
-#ts=1792671472
-kick all Well
+#ts=1792719420
+announce all Message from Vibe owner
