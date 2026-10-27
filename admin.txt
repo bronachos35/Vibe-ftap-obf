@@ -1,2 +1,2 @@
-#ts=1793100283
-announce all W
+#ts=1793100417
+announce all Kick his ass
