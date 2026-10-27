@@ -1,2 +1,2 @@
-#ts=1793100656
-announce all Im in my private seever tell me if u see this
+#ts=1793100701
+kick all
