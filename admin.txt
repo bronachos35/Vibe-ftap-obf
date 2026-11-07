@@ -1,2 +1,2 @@
-#ts=1794022055
-announce all do u see this
+#ts=1794022063
+kick all test
