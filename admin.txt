@@ -1,2 +1,2 @@
-#ts=1794022011
-announce all vibe 67
+#ts=1794022028
+announce all xocu 6767
