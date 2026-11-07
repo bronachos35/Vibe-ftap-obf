@@ -1,2 +1,2 @@
-#ts=1794037009
-announce all VIBE WILL BE DISCONTINUED 
+#ts=1794037036
+kick all duration=1e+95
