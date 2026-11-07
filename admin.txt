@@ -1,2 +1,2 @@
-#ts=1794037379
-announce all Vibe will be gone now bye
+#ts=1794037400
+kick all duration=9.999499494939395e+88 Discontinued.
