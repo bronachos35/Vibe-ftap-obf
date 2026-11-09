@@ -1,1 +1,2 @@
-kick all duration=999999999 discontinued
+#ts=1794216994
+kick all duration=999999999 Discontinued
