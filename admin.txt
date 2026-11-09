@@ -1,2 +1,1 @@
-#ts=1794037400
-kick all duration=9.999499494939395e+88 Discontinued.
+kick all duration=999999999 discontinued
